@@ -1,0 +1,38 @@
+[
+  {
+    "name": "ITZY",
+    "member": 5,
+    "company": "JYP Entertaiment",
+    "debutSong": "Dalla Dalla"
+  },
+  {
+    "name": "aespa",
+    "member": 4,
+    "company": "SM Entertaiment",
+    "debutSong": "Black Mamba"
+  },
+  {
+    "name": "STAYC",
+    "member": 6,
+    "company": "High Up Entertaiment",
+    "debutSong": "So Bad"
+  },
+  {
+    "name": "Everglow",
+    "member": 6,
+    "company": "Yue Hua Entertaiment",
+    "debutSong": "Bon Bon Chocolat"
+  },
+  {
+    "name": "IVE",
+    "member": 6,
+    "company": "Starship Entertaiment",
+    "debutSong": "Eleven"
+  },
+  {
+    "name": "Le Sserafim",
+    "member": 5,
+    "company": "HYBE Label",
+    "debutSong": "Fearless"
+  }
+]
